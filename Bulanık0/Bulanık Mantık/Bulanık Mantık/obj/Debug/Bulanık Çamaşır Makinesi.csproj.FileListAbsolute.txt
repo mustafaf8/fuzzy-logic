@@ -1,0 +1,10 @@
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.exe.config
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.exe
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Çamaşır Makinesi.pdb
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık_Çamaşır_Makinesi.Form1.resources
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık_Çamaşır_Makinesi.Properties.Resources.resources
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.exe
+C:\Users\musta\OneDrive\Masaüstü\C-SHARP-YAPAY-ZEKA-BULANIK-MANTIK-ALGORITMASI-main 2\Bulanık0.1\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Çamaşır Makinesi.pdb

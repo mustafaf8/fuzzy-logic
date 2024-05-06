@@ -1,0 +1,27 @@
+1-Hassas-Küçük-Küçük-Hassas-Kýsa-Çok Az
+2-Hassas-Küçük-Orta-Normal Hassas-Kýsa-Az
+3-Hassas-Küçük-Büyük-Orta-Normal Kýsa-Orta
+4-Hassas-Orta-Küçük-Hassas-Kýsa-Orta
+5-Hassas-Orta-Orta-Normal Hassas-Normal Kýsa-Orta
+6-Hassas-Orta-Büyük-Orta-Orta-Fazla
+7-Hassas-Büyük-Küçük-Normal Hassas-Normal Kýsa-Az
+8-Hassas-Büyük-Orta-Normal Hassas-Orta-Fazla
+9-Hassas-Büyük-Büyük-Orta-Normal Uzun-Fazla
+10-Orta-Küçük-Küçük-Normal Hassas-Normal Kýsa-Az
+11-Orta-Küçük-Orta-Orta-Kýsa-Orta
+12-Orta-Küçük-Büyük-Normal Güçlü-Orta-Fazla
+13-Orta-Orta-Küçük-Normal Hassas-Normal Kýsa-Orta
+14-Orta-Orta-Orta-Orta-Orta-Orta
+15-Orta-Orta-Büyük-Hassas-Uzun-Fazla
+16-Orta-Büyük-Küçük-Hassas-Orta-Orta
+17-Orta-Büyük-Orta-Hassas-Normal Uzun-Fazla
+18-Orta-Büyük-Büyük-Hassas-Uzun-Çok Fazla
+19-Saðlam-Küçük-Küçük-Orta-Orta-Az
+20-Saðlam-Küçük-Orta-Normal Güçlü-Orta-Orta
+21-Saðlam-Küçük-Büyük-Güçlü-Normal Uzun-Fazla
+22-Saðlam-Orta-Küçük-Orta-Orta-Orta
+23-Saðlam-Orta-Orta-Normal Güçlü-Normal Uzun-Orta
+24-Saðlam-Orta-Büyük-Güçlü-Orta-Çok Fazla
+25-Saðlam-Büyük-Küçük-Normal Güçlü-Normal Uzun-Fazla
+26-Saðlam-Büyük-Orta-Normal Güçlü-Uzun-Fazla
+27-Saðlam-Büyük-Büyük-Güçlü-Uzun-Çok Fazla

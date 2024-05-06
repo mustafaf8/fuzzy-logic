@@ -1,0 +1,20 @@
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Mantık.exe.config
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Mantık.exe
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\bin\Debug\Bulanık Mantık.pdb
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Mantık.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\BulanıkMantık.Form1.resources
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\BulanıkMantık.Properties.Resources.resources
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Mantık.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Mantık.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Mantık.exe
+C:\Users\musta\OneDrive\Masaüstü\Bulanık0\Bulanık Çamaşır Makinesi\Bulanık Çamaşır Makinesi\obj\Debug\Bulanık Mantık.pdb
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\bin\Debug\Bulanık Mantık.exe.config
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\bin\Debug\Bulanık Mantık.exe
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\bin\Debug\Bulanık Mantık.pdb
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\Bulanık Mantık.csproj.AssemblyReference.cache
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\BulanıkMantık.Form1.resources
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\BulanıkMantık.Properties.Resources.resources
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\Bulanık Mantık.csproj.GenerateResource.cache
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\Bulanık Mantık.csproj.CoreCompileInputs.cache
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\Bulanık Mantık.exe
+C:\C#\Bulanık0\Bulanık Mantık\Bulanık Mantık\obj\Debug\Bulanık Mantık.pdb
